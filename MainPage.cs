@@ -132,10 +132,7 @@ namespace LibraryAutomation_DC
             MessageBox.Show($"{selectedBook.BookName} Changed!");
             ClearFields();
         }
-
-        private void btnDelete_Click(object sender, EventArgs e)
-        {
-        }
+       
 
         private void btnDelete_Click_1(object sender, EventArgs e)
         {
